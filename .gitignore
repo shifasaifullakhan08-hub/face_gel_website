@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Large archive files (frames are extracted in /frames)
+*.zip
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vercel build output
+.vercel/

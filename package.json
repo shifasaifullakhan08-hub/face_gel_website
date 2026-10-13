@@ -1,0 +1,19 @@
+{
+  "name": "face-gel-website",
+  "version": "1.0.0",
+  "description": "Botanica — Aloe Vera & Cucumber Face Gel interactive scroll animation and editorial product experience",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000 .",
+    "dev": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "scroll-animation",
+    "botanica",
+    "skincare",
+    "canvas",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT"
+}
